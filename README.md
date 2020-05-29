@@ -7,7 +7,7 @@
 
 **Port**
 
-    Le serveur HTTP intégré à __FLASK__ fonctionne sur le port __5000__
+    Le serveur HTTP intégré à **FLASK** fonctionne sur le port **5000**
    
    
 __Services__
